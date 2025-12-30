@@ -1,1 +1,2 @@
 Created in branch 1 
+Merge conflict resolved
