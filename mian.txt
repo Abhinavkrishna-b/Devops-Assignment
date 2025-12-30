@@ -1,3 +1,5 @@
 created in main branch
+Branch 1
+Conflict resolved
 Branch 2
 Merge conflict resolved
