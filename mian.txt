@@ -1,2 +1,3 @@
 created in main branch
 Branch 2
+Merge conflict resolved
