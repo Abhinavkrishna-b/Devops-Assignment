@@ -1,2 +1,1 @@
-Created in branch 1 
-Merge conflict resolved
+Created in branch 1
